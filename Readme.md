@@ -14,3 +14,4 @@ biodata-siswa
  1. Buka terminal
  2. Jalankan perintah:
  node app.js
+ 
