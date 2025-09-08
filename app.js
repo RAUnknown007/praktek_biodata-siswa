@@ -5,4 +5,4 @@ console.log(tampilkanBiodata);
 let biodataSiswa = require('./data/siswa.js');
 let logikaKategori = require('./logic/logikaKategori.js');
 
-console.log("\n\n",namaApp);
+console.log("\n",namaApp);
