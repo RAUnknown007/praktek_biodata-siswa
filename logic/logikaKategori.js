@@ -9,7 +9,7 @@ function menentukanKategori(tahunLulus) {
 } else if (tahunLulus > 2021){
   return"Kategori Kondisi: Lulus Setelah Covid"
 } else {
-  return"Kategori Kondisi: Masukan Tahun Yang Valid!"
+  return"Kategori Kondisi: Masukan Tahun Yang Valid! "
 }
 };
 

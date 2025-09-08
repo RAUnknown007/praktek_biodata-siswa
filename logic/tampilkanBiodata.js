@@ -1,3 +1,3 @@
-const BIODATA = "=== BIODATA SISWA ===";
+const BIODATA = "=== BIODATA SISWA === ";
 
 module.exports = BIODATA;

@@ -7,7 +7,7 @@ function biodataSiswa(nama, umur, asal, sekolah, tahunLulus) {
     console.log("Asal            : ", asal);
     console.log("Sekolah         : ", sekolah);
     console.log("Tahun Lulus     : ", tahunLulus);
-    console.log(menentukanKategori(tahunLulus));
+    console.log(menentukanKategori (tahunLulus));
     
 }
 
